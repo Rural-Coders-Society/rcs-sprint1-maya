@@ -1,0 +1,23 @@
+body{
+    background-color: #ece0d1;
+    color:#4f3017
+}
+
+h2 {
+  text-align: center;
+}
+
+.custom-border {
+  border: 4px solid red;
+  border-radius: 10px;
+}
+
+nav{
+  background-color: white;
+  padding: 10px
+}
+
+mis{
+  background-color: white;
+  padding: 10px;
+}
