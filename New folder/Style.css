@@ -1,0 +1,15 @@
+body{
+    background-color:#ece0d1;
+    color: #4f3017
+}
+
+nav{
+    background-color: #ece0d1;
+    padding: 20px
+}
+nav a {
+    background: bisque;
+    padding: 10px;
+    color:#4f3017;
+    margin: 10px;
+}
